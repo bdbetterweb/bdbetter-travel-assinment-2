@@ -456,6 +456,7 @@ header {
 /* Dis section styles end */
 
 
+
 /* Simp Perf Place section styles st */
 .place-section {
     display: flex;
@@ -510,6 +511,9 @@ header {
 }
 
 /* Sim Per Place section styles end */
+
+
+
 
 /* N-letter section styles st */
 .newsletter-section {
@@ -594,6 +598,9 @@ input[type=email],
 }
 /* N-lett section styles end */
 
+
+
+
 /* ft section styles st */
 .footer-container {
     width: 80%;
@@ -643,6 +650,8 @@ input[type=email],
 }
 
 /* ft section styles end */
+
+
 
 
 
